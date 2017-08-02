@@ -1,0 +1,43 @@
+body {
+    background-color: yellow;
+    font-family: Monospace;
+    font-size: 18px;
+}
+.form {
+    background-color: green;
+    color: white;
+    margin: 40px;
+    padding: 20px 30% 20px 30%;
+}
+footer {
+    background-color: purple;
+    color: white;
+    margin: 40px;
+    padding: 30px;
+    padding-left: 25%;
+    padding-right: 25%;
+}
+header {
+    background-color: purple;
+    color: white;
+    margin: 40px;
+    padding: 10px 1px 60px 5%;
+}
+.form input {
+    background-color: yellow;
+    border-color: purple;
+    border-radius: 5px;
+    border-style: solid;
+    border-width: 3px;
+    color: green;
+    padding: 1px;
+    padding-left: 15px;
+}
+.form button {
+    background-color: purple;
+    border-color: yellow;
+    border-radius: 5px;
+    color: yellow;
+    margin-left: 30%;
+    margin-right: 40%;
+}
